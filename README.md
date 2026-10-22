@@ -31,7 +31,7 @@ public record FelipeFreitas(
                 "servidor", List.of("JBoss EAP 8", "WildFly"),
                 "bancos",   List.of("Oracle", "SQL Server", "PostgreSQL"),
                 "workflow", List.of("BPMN", "Activiti", "Flowable"),
-                "front",    List.of("Flutter Web", "TypeScript")
+                "front",    List.of("Flutter Web", "JavaScript", "TypeScript")
             ),
             "SheShop: gestão para lojas de moda (PDV, estoque, financeiro, loja online)"
         );
